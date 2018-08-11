@@ -19791,7 +19791,7 @@ module.exports = function(module) {
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "b", function() { return AnimationBuilder; });
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "c", function() { return AnimationFactory; });
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "g", function() { return AUTO_STYLE; });
-/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "k", function() { return animate; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "l", function() { return animate; });
 /* unused harmony export animateChild */
 /* unused harmony export animation */
 /* unused harmony export group */
@@ -19799,9 +19799,9 @@ module.exports = function(module) {
 /* unused harmony export query */
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return sequence; });
 /* unused harmony export stagger */
-/* unused harmony export state */
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "j", function() { return state; });
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "h", function() { return style; });
-/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "j", function() { return transition; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "k", function() { return transition; });
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "i", function() { return trigger; });
 /* unused harmony export useAnimation */
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "d", function() { return NoopAnimationPlayer; });

@@ -9,7 +9,7 @@
 
 .conversation-wrap {
   box-shadow: -2px 0 3px #ddd;
-  padding:0;
+  color: #f5f5f5;
   @extend .col-lg-3;
 
   .conversation {
@@ -20,8 +20,8 @@
     margin:0;
 
     .avatar {
-      width: 50px;
-      height: 50px;
+    height: 50px;
+    width: 50px;;
     }
 
 
